@@ -78,7 +78,7 @@ Unauthorized or malicious use is strictly prohibited.
 
 ## 👨‍💻 Developer
 
-**Aakar Gupta**  
+**Nihar bendke**  
 Computer Science Engineering Student  
 
 > *“Building secure systems by understanding how they break.”*
