@@ -1,82 +1,84 @@
-Live Network Intrusion Detection System (NIDS)
+# 📌 Live Network Intrusion Detection System (NIDS)
 
-Important Notice for Readers and Reviewers
+> **Important Notice for Reviewers and Contributors**
 
-This repository contains a complete implementation of a Live Network Intrusion Detection System (NIDS) built in Python.
-However, the primary documentation and detailed explanation are not in this README.
+This repository hosts a **complete Live Network Intrusion Detection System (NIDS)** implemented in **Python**.  
+However, the **primary documentation and implementation are NOT located in this README**.
 
-🔴 Where is the full documentation?
+---
 
-👉 All detailed documentation is available in the main branch README
-(including project explanation, architecture, features, screenshots, and usage).
+## 🔴 Read This First
 
-📄 Please read this file first:
+👉 **All detailed documentation is available in the `main` branch README**
 
-main / README.md
+📄 **Navigate to:**
 
-That README contains:
+That README contains **everything**:
+- Full project explanation
+- System architecture & workflow
+- Threat detection logic (SQL Injection & XSS)
+- GUI dashboard explanation
+- Screenshots & output analysis
+- Installation & execution steps
+- Complete tech stack
+- Source code walkthrough
 
-Complete project overview
-
-Architecture and design explanation
-
-Detection logic (SQL Injection & XSS)
-
-GUI walkthrough
-
-Screenshots and outputs
-
-Setup and execution steps
-
-Tech stack and implementation details
-
-🧠 Repository Structure (Very Important)
-Repository Root
+- Repository Root
 │
-├── main/                     ← ⭐ PRIMARY PROJECT BRANCH
-│   ├── main.py               ← Complete application implementation
-│   ├── README.md             ← 📌 FULL PROJECT DOCUMENTATION
-│   ├── docs/                 ← Screenshots and outputs
-│   ├── assets/               ← Icons and UI resources
-│   └── test_sniffy.py        ← Testing utilities
+├── main/ ⭐ PRIMARY PROJECT LOCATION
+│ ├── main.py → Complete application implementation
+│ ├── README.md → 📌 FULL PROJECT DOCUMENTATION
+│ ├── docs/ → Screenshots & outputs
+│ ├── assets/ → UI icons and resources
+│ └── test_sniffy.py → Testing utilities
 │
-└── master/                   ← Wrapper / Redirect Branch
-    └── README.md             ← (This file)
-⚠️ Key Clarification
+└── master/
+└── README.md → (You are here)
 
-All code, logic, and outputs are inside main
+---
 
-master does NOT contain the implementation
+## 🧠 Repository Structure (Very Important)
 
-master exists only to guide users to the correct documentation
 
-🚀 How to proceed (for evaluators)
+---
 
-Switch to the main branch
+## ⚠️ Key Clarification
 
-Open README.md
+- ✅ **All source code is inside the `main` branch**
+- ✅ **All screenshots and outputs are inside `main/docs/`**
+- ❌ **`master` does NOT contain implementation**
+- ℹ️ `master` exists only as a **navigation and redirection entry point**
 
-Follow the setup and execution steps described there
+---
 
-🎯 Why this structure?
+## 🚀 How to Use This Repository
 
-This layout ensures:
+1. Switch to the **`main` branch**
+2. Open **`README.md`**
+3. Follow the setup and execution instructions provided there
 
-Clean separation between documentation and implementation
+---
 
-Easy navigation for recruiters and reviewers
+## 🎯 Why This Structure?
 
-Clear ownership of the actual project logic
+This structure is intentional and professional:
+- Prevents confusion for reviewers
+- Keeps documentation centralized
+- Ensures clean Git history
+- Makes project evaluation easier
 
-Professional GitHub presentation
+---
 
-📄 License & Usage
+## 📄 License
 
-This project is strictly for educational and learning purposes.
-Unauthorized or malicious use is prohibited.
+This project is created **strictly for educational purposes**.  
+Unauthorized or malicious use is strictly prohibited.
 
-👨‍💻 Developer
-NIHAR BENDKE 
-Computer Science Engineering Student
+---
 
-“Building secure systems by understanding how they break.”
+## 👨‍💻 Developer
+
+**Aakar Gupta**  
+Computer Science Engineering Student  
+
+> *“Building secure systems by understanding how they break.”*
