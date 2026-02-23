@@ -144,5 +144,5 @@ This project is for educational purposes. Unauthorized use for attacking targets
 
 ## 👨‍💻 Developer
 
-**Aakar Gupta**, CS Engineering Student
+**nihar bendke**, CS Engineering Student
 > *"Building secure systems by understanding how they break."*
