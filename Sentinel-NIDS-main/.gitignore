@@ -1,0 +1,84 @@
+# =========================
+# Python Bytecode / Cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.env/
+.env.bak/
+.venv/
+
+# =========================
+# Package / Build Artifacts
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Logs & Runtime Files
+# =========================
+*.log
+*.pid
+
+# =========================
+# OS / Editor Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# VS Code / IDE Settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Network / Security Artifacts
+# =========================
+*.pcap
+*.pcapng
+*.dump
+*.cap
+
+# =========================
+# Sensitive / Local Config
+# =========================
+config.json
+secrets.json
+*.key
+*.pem
+
+# =========================
+# Temporary / Backup Files
+# =========================
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# Python Test / Coverage
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Installer / Npcap related
+# =========================
+npcap/
+WinPcap/
+
+# =========================
+# Misc
+# =========================
+*.exe
+*.dll
