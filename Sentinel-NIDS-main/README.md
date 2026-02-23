@@ -1,4 +1,4 @@
-# 🛡️ Sentinel — Live Network Intrusion Detection System
+# 🛡️ Live Network Intrusion Detection System
 
 > Analyze. Detect. Defend — Real-time Network Security Monitoring.
 
