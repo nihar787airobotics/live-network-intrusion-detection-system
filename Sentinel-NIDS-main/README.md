@@ -138,11 +138,11 @@ Contributions, ideas, and suggestions are welcome! If you find a bug or have an 
 ## 📄 License
 
 This project is for educational purposes. Unauthorized use for attacking targets is strictly prohibited.
-© 2026 Nihar bendke. All rights reserved.
+© 2025 Aakar Gupta. All rights reserved.
 
 ---
 
 ## 👨‍💻 Developer
 
-**nihar bendke**, CS Engineering Student
+**Aakar Gupta**, CS Engineering Student
 > *"Building secure systems by understanding how they break."*
