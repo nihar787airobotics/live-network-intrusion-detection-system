@@ -138,7 +138,7 @@ Contributions, ideas, and suggestions are welcome! If you find a bug or have an 
 ## 📄 License
 
 This project is for educational purposes. Unauthorized use for attacking targets is strictly prohibited.
-© 2025 Aakar Gupta. All rights reserved.
+© 2026 Nihar bendke. All rights reserved.
 
 ---
 
