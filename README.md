@@ -12,7 +12,7 @@
 - Captures live network packets using **Scapy**.
 - Filters traffic to focus on relevant protocols (HTTP/HTTPS).
 - Allows monitoring of a specific network interface or targeting a specific IP address/URL.
-- **Start/Stop controls** for on-demand monitoring.
+- **Start/Stop control** for on-demand monitoring.
 
 ### 🎯 Signature-Based Threat Detection
 - **Multi-threat analysis** for SQL Injection and XSS vulnerabilities.
